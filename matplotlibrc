@@ -1,0 +1,1 @@
+backend : agg   # use pyqt with antigrain (agg) rendering
